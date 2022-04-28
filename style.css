@@ -1,0 +1,33 @@
+header {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    box-shadow: 0px 5px 50px orange;
+    border-radius: 10px;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-size: cover;
+}
+
+footer {
+    text-shadow: 0px 5px 10px black;
+    text-align: center;
+    margin-bottom:10;
+    background-color:gray;
+    position: fixed;
+    position:absolute;
+    bottom:0;
+    width:900px;
+    height:30px;
+    
+}
+
+canvas{
+    box-shadow: 0px 0px 20px red;
+}
